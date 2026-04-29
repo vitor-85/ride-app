@@ -1,7 +1,7 @@
 import axios from "axios";
 
 export const api = axios.create({
-  baseURL: "http://localhost:3002"
+  baseURL: "https://ride-app-wya2.onrender.com"
 });
 
 

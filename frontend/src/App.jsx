@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react';
 import { api } from './services/api';
 import { io } from "socket.io-client";
 
-const socket = io("http://localhost:3002");
+const socket = io("https://ride-app-wya2.onrender.com");
 
 
 async function getCoords(place) {
