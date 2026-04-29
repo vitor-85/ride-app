@@ -1,4 +1,4 @@
-# 🚗 Uber Clone Full Stack
+# 🚗 UberFull Stack
 
 Aplicação full stack inspirada na Uber, desenvolvida com React, Node.js, Express, MongoDB, Socket.IO e Leaflet.
 
